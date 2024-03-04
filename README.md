@@ -31,8 +31,3 @@ The Multimedia Portfolio Website project aims to create an interactive and visua
 -   **chat with chatGPT 3.5**: https://chat.openai.com/share/b64f0195-464e-4d13-8811-a93de1201801
                                 https://chat.openai.com/share/b64f0195-464e-4d13-8811-a93de1201801
 
--   **Maintenance**: Outline plans for maintaining and updating the website regularly to keep it relevant and up-to-date.
-
-## Conclusion
-
-write your conclusion about the website that you have designed
